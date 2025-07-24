@@ -1,6 +1,7 @@
 # Logistic-Regression-in-Wine-Type
 Logistic Regression on Wine Type Classification
 🔍 Project Title
+
 Quantitative Analysis of Wine Type Prediction via Logistic Regression
 
 👤 Author
