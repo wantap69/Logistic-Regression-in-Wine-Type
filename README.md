@@ -51,8 +51,10 @@ All predictors were statistically significant.
 - [x] McFadden’s R² = 0.3868 indicated good model fit.
 
 📎 How to View
-Open this [link](http://rpubs.com/Nebz/1331879) to view in any modern web browser (e.g., Chrome, Firefox, Edge).
+
+- Open this [link](http://rpubs.com/Nebz/1331879) to view in any modern web browser (e.g., Chrome, Firefox, Edge).
 
 📬 Contact
+
 For questions or feedback, contact Benedict Bautista.
 
