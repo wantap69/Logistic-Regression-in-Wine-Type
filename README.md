@@ -44,11 +44,11 @@ Binary Outcome: Confirmed (red vs. white wine)
 📌 Summary of Findings
 All predictors were statistically significant.
 
-[*] Density, sulphates, and alcohol had negative associations with the likelihood of a wine being white.
+[ ] Density, sulphates, and alcohol had negative associations with the likelihood of a wine being white.
 
-[*] Quality had a positive association, increasing the odds of a wine being classified as white.
+[ ] Quality had a positive association, increasing the odds of a wine being classified as white.
 
-[*] McFadden’s R² = 0.3868 indicated good model fit.
+[ ] McFadden’s R² = 0.3868 indicated good model fit.
 
 📎 How to View
 Open this [link](http://rpubs.com/Nebz/1331879) to view in any modern web browser (e.g., Chrome, Firefox, Edge).
